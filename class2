@@ -1,0 +1,82 @@
+
+ 
+Level 2: BRANCH	Level 3_CLASS	Level 4_SUBCLASS
+Energy	Battery	Accessories
+Energy	Battery	Battery chassis
+Energy	Battery	Controller board
+Energy	Battery	Lead Battery
+Energy	Battery	Lithium-ion Battery
+Energy	Converter	Accessories
+Energy	Converter	Complete Set
+Energy	Converter	Converter Module
+Energy	Electrical Distribution	Accessories
+Energy	Electrical Distribution	Automatic Transfer Switches
+Energy	Electrical Distribution	Busway
+Energy	Electrical Distribution	Cable management
+Energy	Electrical Distribution	Capacitor Banks
+Energy	Electrical Distribution	Distribution Board
+Energy	Electrical Distribution	Electrical Measuring Equipment
+Energy	Electrical Distribution	Electrical Protective Device
+Energy	Electrical Distribution	Main Distribution Switchboard
+Energy	Electrical Distribution	Power Transformer
+Energy	Electrical Distribution	Synchronization Switchboard
+Energy	Generator	Accessories
+Energy	Generator	Alternator
+Energy	Generator	Controller
+Energy	Generator	Diesel Generator
+Energy	Generator	Engine
+Energy	Generator	Fuel tank
+Energy	Generator	Gasoline Generator
+Energy	Grounding and Lightning Protection	Accessories
+Energy	Grounding and Lightning Protection	Conductor
+Energy	Grounding and Lightning Protection	ground rod
+Energy	Grounding and Lightning Protection	lighning rod
+Energy	Grounding and Lightning Protection	Surge protection
+Energy	Heating, ventilation, and air conditioning (HVAC)	Accessories
+Energy	Heating, ventilation, and air conditioning (HVAC)	Complete Set
+Energy	Heating, ventilation, and air conditioning (HVAC)	Condenser
+Energy	Heating, ventilation, and air conditioning (HVAC)	Controller Module
+Energy	Heating, ventilation, and air conditioning (HVAC)	Cooling tower
+Energy	Heating, ventilation, and air conditioning (HVAC)	Evaporator
+Energy	Heating, ventilation, and air conditioning (HVAC)	Fan
+Energy	Heating, ventilation, and air conditioning (HVAC)	FCU/AHU
+Energy	Heating, ventilation, and air conditioning (HVAC)	Indoor Unit
+Energy	Heating, ventilation, and air conditioning (HVAC)	Outdoor Unit
+Energy	Heating, ventilation, and air conditioning (HVAC)	Pump
+Energy	Heating, ventilation, and air conditioning (HVAC)	Water Chiller
+Energy	Inverter	Accessories
+Energy	Inverter	Complete Set
+Energy	Inverter	Inverter Module
+Energy	Lighting	Accessories
+Energy	Lighting	Holder
+Energy	Lighting	Lamp
+Energy	Management and supervision	Accessories
+Energy	Management and supervision	Comunication Card
+Energy	Management and supervision	Field Device
+Energy	Management and supervision	Network Controller
+Energy	Management and supervision	Software
+Energy	Raised floor	Accessories
+Energy	Raised floor	Pedestal 
+Energy	Raised floor	Raised floor panel
+Energy	Raised floor	Stringer
+Energy	Rectifier	Accessories
+Energy	Rectifier	Complete Set
+Energy	Rectifier	Controller Module
+Energy	Rectifier	DCDU (DC Distribution Unit)
+Energy	Rectifier	Monitoring Module
+Energy	Rectifier	Rectifier Chassis
+Energy	Rectifier	Rectifier Module
+Energy	Solar	Accessories
+Energy	Solar	Combiner Box/Junction Box
+Energy	Solar	Solar Converter/Charger
+Energy	Solar	Solar Inverter
+Energy	Solar	Solar Panel
+Energy	Solar	Supporting Frame
+Energy	UPS	Accessories
+Energy	UPS	Bypass Module
+Energy	UPS	Controller
+Energy	UPS	Inverter Module
+Energy	UPS	Modular UPS
+Energy	UPS	Monoblock UPS
+Energy	UPS	Power Module
+Energy	UPS	UPS Chassis
